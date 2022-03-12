@@ -8,6 +8,10 @@ I'm just a student developer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GDNOOB1324&layout=compact&theme=dark)
 
+## 👩‍💻 Languages
+
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+
 **GDNOOB1324/GDNOOB1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
