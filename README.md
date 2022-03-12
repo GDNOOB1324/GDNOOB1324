@@ -1,10 +1,4 @@
-@settings {
-  font-size: 100;
-}
-
-<p align="center">
-<b>👋 Hi there</b>
-</p>
+# 👋 Hi there
 
 I'm just a student developer
 
