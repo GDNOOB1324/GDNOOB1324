@@ -17,5 +17,5 @@ I'm just a student developer
 
 ## 🔨 Tools
 
-![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![VSoCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
