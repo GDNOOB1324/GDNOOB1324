@@ -24,4 +24,5 @@ I'm just a student developer
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A.svg?style=for-the-badge&logo=Minecraft&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-000000.svg?style=for-the-badge&logo=Roblox&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white)
 ![Undertale](https://img.shields.io/badge/Undertale-E71D29.svg?style=for-the-badge&logo=Undertale&logoColor=white)
