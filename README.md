@@ -2,7 +2,7 @@
 
 I'm just a student developer
 
-## 〽️ Stats
+## 📊 Stats
 
 ![my's github stats](https://github-readme-stats.vercel.app/api?username=GDNOOB1324&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GDNOOB1324&layout=compact&theme=dark)
@@ -14,3 +14,5 @@ I'm just a student developer
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)
+
+## 🔨 Tools
