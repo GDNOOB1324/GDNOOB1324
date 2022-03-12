@@ -1,4 +1,6 @@
+<p align="center">
 # 👋 Hi there
+</p>
 
 I'm just a student developer
 
