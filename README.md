@@ -26,4 +26,4 @@ I'm just a student developer
 ![Roblox](https://img.shields.io/badge/Roblox-000000.svg?style=for-the-badge&logo=Roblox&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white)
 ![Undertale](https://img.shields.io/badge/Undertale-E71D29.svg?style=for-the-badge&logo=Undertale&logoColor=white)
-![Nintendo Switch](https://img.shields.io/badge/Nintendo Switch-E60012.svg?style=for-the-badge&logo=Nintendo-Switch&logoColor=white)
+![NintendoSwitch](https://img.shields.io/badge/NintendoSwitch-E60012.svg?style=for-the-badge&logo=Nintendo-Switch&logoColor=white)
