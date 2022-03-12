@@ -1,5 +1,5 @@
 <p align="center">
-# 👋 Hi there
+<b>👋 Hi there</b>
 </p>
 
 I'm just a student developer
