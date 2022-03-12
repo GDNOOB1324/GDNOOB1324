@@ -19,3 +19,9 @@ I'm just a student developer
 
 ![VSoCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
+
+## 🎮 Games(??)
+
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A.svg?style=for-the-badge&logo=Minecraft&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-000000.svg?style=for-the-badge&logo=Roblox&logoColor=white)
+![Undertale](https://img.shields.io/badge/Undertale-E71D29.svg?style=for-the-badge&logo=Undertale&logoColor=white)
