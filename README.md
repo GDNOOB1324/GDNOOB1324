@@ -1,8 +1,8 @@
-# Hi there 👋
+# 👋 Hi there
 
 I'm just a student developer
 
-## Stats
+## 〽️ Stats
 
 ![my's github stats](https://github-readme-stats.vercel.app/api?username=GDNOOB1324&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GDNOOB1324&layout=compact&theme=dark)
