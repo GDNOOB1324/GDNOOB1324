@@ -7,7 +7,6 @@ I'm just a student developer
 ![my's github stats](https://github-readme-stats.vercel.app/api?username=choshinyoung&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GDNOOB1324&layout=compact&theme=dark)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=GDNOOB1324)](https://solved.ac/choshinyoung/)
 
 **GDNOOB1324/GDNOOB1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
