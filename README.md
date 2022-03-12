@@ -1,4 +1,8 @@
-<p align="center"; font-size=72px;>
+@settings {
+  font-size: 100;
+}
+
+<p align="center">
 <b>👋 Hi there</b>
 </p>
 
