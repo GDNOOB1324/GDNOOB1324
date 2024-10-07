@@ -1,6 +1,6 @@
 # gdnoob1324
-
 > [!NOTE]
 > Im noob developer[^1]
+> UTC + 9
 
-[^1]: umm maybe im developer
+[^1]: or not
