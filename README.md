@@ -2,7 +2,7 @@
 > [!NOTE]
 > Im noob🤣 developer[^1]<br>UTC + 9
 
-- [x] checked checkbox
-- [ ] its not
+- [x] checked
+- [ ] not
 
 [^1]: or not
